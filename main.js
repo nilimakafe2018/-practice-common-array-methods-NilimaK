@@ -43,13 +43,13 @@ for (let i = 0; i < orders[0].length; i++) {
 
 orders[0].push("Flat White");
 
-console.log("updated number of drinks:", orders[0].length); // 4
+console.log("updated number of drinks:", orders[0].length); 
 
 // Drinks category
 let categoryIndex = 0; 
 // Last item index              
 let orderIndex = orders[0].length - 1;
 
-console.log("Newly added drink:", orders[categoryIndex][orderIndex]); // "Flat White"
+console.log("Newly added drink:", orders[categoryIndex][orderIndex]);
 
 
