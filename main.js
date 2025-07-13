@@ -1,6 +1,5 @@
-//Task 1: Create the Order System. Create a multi-dimensional array called orders with two rows:
-//The first row stores three drink orders (e.g., “Latte”, “Tea”, “Espresso”).
-//The second row stores three pastry orders (e.g., “Croissant”, “Muffin”, “Bagel”).
+//Task 1: Create the Order System. Create a multi-dimensional array called orders with two rows: The first row stores three drink 
+//orders (e.g., “Latte”, “Tea”, “Espresso”). The second row stores three pastry orders (e.g., “Croissant”, “Muffin”, “Bagel”).
 
 let orders = [
     ["Latte", "Tea", "Espresso"],
